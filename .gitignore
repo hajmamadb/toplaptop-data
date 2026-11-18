@@ -1,0 +1,13 @@
+﻿#innodb_redo/
+#innodb_temp/
+*.pem
+*.err
+*.pid
+*.db
+*.sqlite
+binlog.*
+undo_*
+ibdata1
+ibtmp1
+MamaD_DeV.*
+
